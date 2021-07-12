@@ -20,7 +20,7 @@ namespace CreateAndDeleteListUsing_CSOM
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string url = "http://appsemea.sanofi.com/ws/PVI_DEV/";
+            string url = "Your URL";
             SPClient.ClientContext ctx = new SPClient.ClientContext(url);
             SPClient.Web web = ctx.Web;
 
@@ -37,7 +37,7 @@ namespace CreateAndDeleteListUsing_CSOM
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string url = "http://appsemea.sanofi.com/ws/PVI_DEV/";
+            string url = "Your URL";
             SPClient.ClientContext ctx = new SPClient.ClientContext(url);
             SPClient.Web web = ctx.Web;
             SPClient.List list= web.Lists.GetByTitle("Parag_TEST1");
