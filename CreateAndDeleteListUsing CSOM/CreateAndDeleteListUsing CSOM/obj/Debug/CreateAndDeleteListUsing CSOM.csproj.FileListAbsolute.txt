@@ -1,0 +1,9 @@
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\bin\Debug\CreateAndDeleteListUsing CSOM.exe.config
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\bin\Debug\CreateAndDeleteListUsing CSOM.exe
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\bin\Debug\CreateAndDeleteListUsing CSOM.pdb
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\obj\Debug\CreateAndDeleteListUsing CSOM.csprojResolveAssemblyReference.cache
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\obj\Debug\CreateAndDeleteListUsing_CSOM.Form1.resources
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\obj\Debug\CreateAndDeleteListUsing_CSOM.Properties.Resources.resources
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\obj\Debug\CreateAndDeleteListUsing CSOM.csproj.GenerateResource.Cache
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\obj\Debug\CreateAndDeleteListUsing CSOM.exe
+D:\Parag\Practice\CreateAndDeleteListUsing CSOM\CreateAndDeleteListUsing CSOM\obj\Debug\CreateAndDeleteListUsing CSOM.pdb
