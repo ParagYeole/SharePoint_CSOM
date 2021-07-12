@@ -20,7 +20,7 @@ namespace ReadUpdateProp_using_CSOM_Windows_Fom
 
         private void button1_Click(object sender, EventArgs e)
         {
-            String url = "https://appsamer.sanofi.com/ws/PVI_dev/";
+            String url = "Your URL";
             SPClient.ClientContext ctx = new SPClient.ClientContext(url);
             SPClient.Web web = ctx.Web;
             ctx.Load(web);
@@ -30,7 +30,7 @@ namespace ReadUpdateProp_using_CSOM_Windows_Fom
 
         private void button2_Click(object sender, EventArgs e)
         {
-            String url = "https://appsamer.sanofi.com/ws/PVI_dev/";
+            String url = "Your URL";
             SPClient.ClientContext ctx = new SPClient.ClientContext(url);
             SPClient.Web web = ctx.Web;
             web.Title = "PVI";
